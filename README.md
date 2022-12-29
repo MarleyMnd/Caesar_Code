@@ -8,6 +8,7 @@ The Caesar encryption method is really simple. You first have to take an alphabe
 | Basic | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | q | r | s | t | u | v | w | x | y | z |
 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | Encrypted | d | e | f | g | h | i | j | k | l | m | n | o | p | q | r | s | t | u | v | w | x | y | z | a | b | c |
+
 Without the key, nobody can read your message (on the paper).
 Now, in order to decrypt the message, you must have the key in order to shift the alphabet the other way. That's where the key is important !
 
