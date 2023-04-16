@@ -1,4 +1,4 @@
-# CAESAR'S ENCRYPTION
+# 🔓 CAESAR'S ENCRYPTION
 ---
 ### Aim:
 This algorithm is able to **encrypt a message using Caesar's encryption method**. It is also able to **decrypt a message** only if you know the right key associated with it.
